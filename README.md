@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Привет, меня зовут Леонид Найданов
 
-<!--
-**LeonNaydStud/LeonNaydStud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я **Data Scientist / ML Engineer** с опытом 1.5 года в создании ML-продуктов от идеи до продакшена.
 
-Here are some ideas to get you started:
+### 📚 Образование
+- **Специалист по работе с данными и применению ИИ** НИЯУ МИФИ (2026)
+- **Бакалавр** НГТУ, Факультет автоматики и вычислительной техники (2025)
+- **Яндекс.Практикум** — Продуктовая аналитика (2024)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Технологический стек
+- **Языки:** Python, SQL, C/C++, Bash
+- **ML/DS:** Scikit-learn, PyTorch, TensorFlow, CatBoost, H2O, NLP, Transformers, Prophet, statsmodels
+- **Фреймворки и инструменты:** FastAPI, Streamlit, LangChain, HuggingFace, MLflow, Docker, Git, Poetry
+- **Анализ данных:** Pandas, NumPy, Matplotlib, Seaborn, Plotly, Statsmodels, Prophet
+- **BI и визуализация:** Tableau, DataLens
+- **Базы данных:** Oracle, PostgreSQL (через DBeaver)
