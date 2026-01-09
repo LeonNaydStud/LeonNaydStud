@@ -5,28 +5,24 @@
 
 ---
 
-## 🛠️ Tech Stack
+<details>
+<summary>🛠️ <h3>Tech Stack</h3> (Click to expand)</summary>
 
-💻 **Languages**
-
+**💻 Languages**  
 Python · SQL · C/C++ · Bash
 
-🧠 **ML / Data Science**
-
+**🧠 ML / Data Science**  
 Scikit-learn · PyTorch · TensorFlow · CatBoost · H2O · NLP · Transformers · Prophet · statsmodels
 
-🧰 **Frameworks & Tools**
-
+**🧰 Frameworks & Tools**  
 FastAPI · Streamlit · LangChain · HuggingFace · MLflow · Docker · Git · Poetry
 
-📊 **Data Analysis**
-
+**📊 Data Analysis**  
 Pandas · NumPy · Matplotlib · Seaborn · Plotly · Statsmodels · Prophet
 
-📈 **BI & Visualization**
-
+**📈 BI & Visualization**  
 Tableau · DataLens
 
-🗄️ **Databases**
-
+**🗄️ Databases**  
 Oracle · PostgreSQL
+</details>
