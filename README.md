@@ -1,16 +1,14 @@
-# 👋 Привет, меня зовут Леонид Найданов
+# About me:
+- 23 y.o.
+- Student @ NRNU MEPhI
+- ML Engineer @ ADV Benchmark
 
-Я **Data Scientist / ML Engineer** с опытом 1.5 года в создании ML-продуктов от идеи до продакшена.
+---
 
-### 📚 Образование
-- **Специалист по работе с данными и применению ИИ**, НИЯУ МИФИ (2026)
-- **Информатика и вычислительная техника**, НГТУ НЭТИ (2025)
-- **Продуктовая аналитика**, Яндекс.Практикум (2024)
-
-### 🛠️ Технологический стек
-- **Языки:** Python, SQL, C/C++, Bash
+## 🛠️ Tech Stack
+- **Languages:** Python, SQL, C/C++, Bash
 - **ML/DS:** Scikit-learn, PyTorch, TensorFlow, CatBoost, H2O, NLP, Transformers, Prophet, statsmodels
-- **Фреймворки и инструменты:** FastAPI, Streamlit, LangChain, HuggingFace, MLflow, Docker, Git, Poetry
-- **Анализ данных:** Pandas, NumPy, Matplotlib, Seaborn, Plotly, Statsmodels, Prophet
-- **BI и визуализация:** Tableau, DataLens
-- **Базы данных:** Oracle, PostgreSQL (через DBeaver)
+- **Frameworks & Tools:** FastAPI, Streamlit, LangChain, HuggingFace, MLflow, Docker, Git, Poetry
+- **Data Analysis:** Pandas, NumPy, Matplotlib, Seaborn, Plotly, Statsmodels, Prophet
+- **BI & Visualization:** Tableau, DataLens
+- **Databases:** Oracle, PostgreSQL
